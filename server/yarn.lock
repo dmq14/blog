@@ -1755,8 +1755,7 @@ uuid@^8.3.2:
 
 "uWebSockets.js@github:uNetworking/uWebSockets.js#v20.4.0":
   version "20.4.0"
-  resolved "https://codeload.github.com/uNetworking/uWebSockets.js/tar.gz/65f39bdff763be3883e6cf18e433dd4fec155845"
-  integrity sha512-bk9msK0Wf7u1HYHGeMvLhy0HESI0XB1T5WuqH9eZkHM37ZmTP/2STqF0kPJpZIrtiiusd+LroK3PCduS3Rlb8A==
+  resolved "git+ssh://git@github.com/uNetworking/uWebSockets.js.git#65f39bdff763be3883e6cf18e433dd4fec155845"
 
 validator@^13.9.0:
   version "13.9.0"
