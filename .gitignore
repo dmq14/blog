@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+client/node_modules
+server/node_modules
