@@ -204,3 +204,7 @@ button.btn--save:hover {
     cursor: pointer;
   }
 } */
+/* News & Updates */
+.dashboard .news .post-item+.post-item {
+  margin-top: 15px;
+}
